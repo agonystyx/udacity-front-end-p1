@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+I can't honestly say I learned some new skills. I did learn some stuff about git when I was trying to work on this in two different locations, but that is slightly separate from the skills specific to this module.
+I did get some practice with Sublime Text, and learned some things about how it will automatically close tags, although I think I am still more partial to an editor called "brackets".
+
+Most of this work has been easy. There are many resources available online. In fact, so much is available online my only worry is to watch for older, out of date info that does not follow HTML5 best practices.
+
+Difficult was deciding whether to just use HTML tags or include styles and a stylesheet. Since we haven't really covered CSS yet, I decided to just stick with the HTML. I wasn't sure how to do the HTML for a footnote, wondered if maybe HTML5 has a semantic footnote tag, but did not find any. So went with a superscript <sup> tag. Probably the most difficult part is noticing the details of the mock-up and making sure to include them. I totally did not notice that the "Breaking news" lead was italicized until I thought I was done. Still not 100% sure I've included all of the mock-up details. For instance, what is the spacing between the footnote text and its number. But I'm probably about 95% sure. 
+
+I definitely used the strategy of using online resources, like stackoverflow and w3schools, to help me figure out what I needed to know. But in general this was a pretty straight-forward project. 
